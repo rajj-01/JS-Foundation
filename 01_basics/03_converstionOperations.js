@@ -47,6 +47,3 @@ console.log(booleanIsName);
 let num = 486;
 let stringnum = String(num);
 console.log(stringnum);
-console.log(typeof(stringnum));
-
-
